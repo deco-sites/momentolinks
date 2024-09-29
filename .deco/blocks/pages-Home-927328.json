@@ -2,12 +2,31 @@
   "name": "Home",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/momento.sh"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": "ArrowLeft",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSc2s9nk2SpLYKyunnK__R7kJcK0mMG7BaQQMz7Swi3Nc4BNTQ/viewform",
+          "label": "Link de inscrição para o Momento (02/10)"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }

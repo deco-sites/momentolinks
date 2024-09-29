@@ -1,5 +1,9 @@
 {
   "__resolveType": "site/sections/Header.tsx",
-  "title": "<p>Click here to tweak this text however you want.</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  "title": "<p>Links do Momento</p>",
+  "description": "<p></p>",
+  "logo": {
+    "width": 0,
+    "height": 0
+  }
 }
