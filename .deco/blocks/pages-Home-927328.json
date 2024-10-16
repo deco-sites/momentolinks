@@ -19,8 +19,23 @@
       "links": [
         {
           "icon": "ArrowLeft",
-          "href": "https://docs.google.com/forms/d/e/1FAIpQLSc2s9nk2SpLYKyunnK__R7kJcK0mMG7BaQQMz7Swi3Nc4BNTQ/viewform",
-          "label": "Link de inscrição para o Momento (02/10)"
+          "href": "https://docs.anthropic.com/en/api/getting-started",
+          "label": "Anthropic API documentation"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "OpenAI API documentation",
+          "href": "https://platform.openai.com/docs/api-reference"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "Deco's Webdraw",
+          "href": "https://webdraw.ai/"
+        },
+        {
+          "icon": "ArrowLeft",
+          "label": "Link da Playlist do Spotify",
+          "href": "https://open.spotify.com/playlist/5dybuiJEecHbRaYVUgugkY?si=xkehSQlqTN6x1wM8AIgijg"
         }
       ]
     },
